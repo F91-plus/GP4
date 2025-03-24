@@ -21,28 +21,25 @@ void SingleList::AddNode(int _data)
 {
     count++;
 
-    int* temp = new int[count];
+    string* temp[3];
 
     if (head == nullptr)
     {
         // 새 구조체 선언
-        Node N_node;
+        Node* N_node;
         // 새 구조체에 데이터 삽입
-        N_node.data = _data;
+        N_node->data = _data;
         // 새 구조체의 다음은 nullptr
-        N_node.next = nullptr;
+        N_node->next = nullptr; 
 
-        temp[count] = N_node.next;
+        temp[0]->&N_node;
 
-        head->next (& temp[count]);
     }
     else
     {
         Node N_node;
         N_node.data = _data;
         N_node.next = nullptr;
-
-
     }
 
     //cout << N_node.data << endl;
