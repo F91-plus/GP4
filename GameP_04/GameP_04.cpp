@@ -159,8 +159,27 @@ int main()
 
 	SingleList S_list;
 
-	S_list.AddNode(10);
-	//S_list.AddNode(200);
+	S_list.AddNode(1);
+	S_list.AddNode(2);
+
+	for (int i = 3; i < 10; i++)
+	{
+		S_list.AddNode(i);
+	}
+
+	S_list.PrintAll();
+
+	/*
+	S_list.InsertNode(0, 100);
+	S_list.InsertNode(5, 100);
+	S_list.PrintAll();
+	*/
+	for (int i = 1; i < 10; i=i+4)
+	{
+		S_list.InsertNode(i, 200);
+	}
+	S_list.PrintAll();
+
 
     return 0;
 }

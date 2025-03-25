@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\GameP_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|solutionrelative:GameP_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\SingleList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|solutionrelative:SingleList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,19 +18,15 @@
       "RelativeMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|solutionrelative:SingleList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\exe_common.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|solutionrelative:List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Deque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|solutionrelative:Deque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\GameP_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|solutionrelative:GameP_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F894DA9-376A-4CF3-978D-56AAF6B6CD09}|GameP_04.vcxproj|C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -69,33 +72,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Queue.cpp",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Queue.cpp",
-              "RelativeDocumentMoniker": "Queue.cpp",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Queue.cpp",
-              "RelativeToolTip": "Queue.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwDoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T11:02:02.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SingleList.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\SingleList.h",
               "RelativeDocumentMoniker": "SingleList.h",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\SingleList.h",
               "RelativeToolTip": "SingleList.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-20T11:45:58.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T11:45:58.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Deque.cpp",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Deque.cpp",
               "RelativeDocumentMoniker": "Deque.cpp",
@@ -103,12 +92,11 @@
               "RelativeToolTip": "Deque.cpp",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T12:13:24.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:13:24.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "List.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\List.h",
               "RelativeDocumentMoniker": "List.h",
@@ -120,50 +108,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "delete_scalar.cpp",
               "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T12:29:03.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T12:29:03.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SingleList.cpp",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\SingleList.cpp",
               "RelativeDocumentMoniker": "SingleList.cpp",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\SingleList.cpp",
               "RelativeToolTip": "SingleList.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T11:46:25.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T11:46:25.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "List.cpp",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\List.cpp",
-              "RelativeDocumentMoniker": "List.cpp",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\List.cpp",
-              "RelativeToolTip": "List.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T10:49:08.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "GameP_04.cpp",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\GameP_04.cpp",
               "RelativeDocumentMoniker": "GameP_04.cpp",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\GameP_04.cpp",
               "RelativeToolTip": "GameP_04.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAcwLEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-18T12:13:25.41Z",
               "EditorCaption": ""
@@ -171,6 +144,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Queue.cpp",
+              "RelativeDocumentMoniker": "Queue.cpp",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Queue.cpp",
+              "RelativeToolTip": "Queue.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T11:02:02.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cpp",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\List.cpp",
+              "RelativeDocumentMoniker": "List.cpp",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\List.cpp",
+              "RelativeToolTip": "List.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T10:49:08.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exe_common.inl",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\exe_common.inl",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\exe_common.inl",
+              "ViewState": "AgIAABQBAAAAAAAAAAAjwCYBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-24T12:05:03.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Queue.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Queue.h",
               "RelativeDocumentMoniker": "Queue.h",
@@ -178,12 +185,11 @@
               "RelativeToolTip": "Queue.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-19T11:01:52.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T11:01:52.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Stack_dynamic.cpp",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Stack_dynamic.cpp",
               "RelativeDocumentMoniker": "Stack_dynamic.cpp",
@@ -195,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Stack_Template.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Stack_Template.h",
               "RelativeDocumentMoniker": "Stack_Template.h",
@@ -207,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Stack_Template.cpp",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Stack_Template.cpp",
               "RelativeDocumentMoniker": "Stack_Template.cpp",
@@ -219,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Stack_dynamic.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Stack_dynamic.h",
               "RelativeDocumentMoniker": "Stack_dynamic.h",
@@ -231,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Deque.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GP4\\GP4\\GameP_04\\Deque.h",
               "RelativeDocumentMoniker": "Deque.h",
