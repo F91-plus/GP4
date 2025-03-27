@@ -1,0 +1,113 @@
+4일차
+인생게임 기준으로 크레딧 보면
+해당 게임 어떠한 직군이 있고 몇명이 있는지 확인가능함
+HR = human resource
+
+
+1,2,3 일차 내용 요약본
+1. 게임 디자이너 - CM
+2. 프로그래머 - TD
+3. 그래픽 디자이너 - AD	-> PD
+4. 사운드 - SD
+5. 영상 제작 - D
+6. 번역
+7. PM + CM
+
+스텔라 블레이드
+D / PRODUCER
+LEAD
+Project Manager
+level designer
+battle designer
+system designer
+environment concept artist
+environment artist
+concept artist
+3D character artist
+Animator
+VFX artist
+UI artist
+--
+sound D
+
+CAST
+~~
+ADDITIONAL VOICES
+~~
+
+시나리오 작가
+EXTERNAL & OUTSOURCEING DEVELOPMENT MANAGER
+PART LEAD QUALITY ASSURANCE
+QUALITY ASSURANCE
+TECHNICAL DIRECTOR
+ENGINE PART LEAD PROGRAMMER
+CLIENT PART LEAD PROGRAMMER
+NETWORK PART LEAD PROGRAMMER
+ART DIRECTOR
+ENVIRONMENT
+	LIGHTING
+CUTSCENE LIGHTING PART LEAD ARTIST
+part lead animator
+cinematic artist
+rigging artist
+composer
+facial animator
+media asset assistant
+
+CSO
+BD TEAM LEAD
+BC MANAGER
+CHRO
+HR/GA
+PRODUCTION TEAM 
+프로듀서, 시나리오 디렉터
+/ SUPPORT
+사무실 지원
+EXECUTIVE ASSISTANT
+협력사
+번역
+
+던그리드
+픽셀 아티스트가 중요하겠지?
+도트는 동작 하나하나 다 그려야 하는 노가다
+공격 동작을 할 시 해당 Layer 별도로 준다 -> 여러 무기에 적용가능
+이동 시에 먼지로 가려서 간단하게 표시 -> 코디 여러개 적용 가능
+피격 모션 따로 없음, 간단히 투명하게 = 피격 후 무적 기간 동안
+단 상태 이상은 이펙트 형식으로 표시
+무언가 소환되는 효과를 한가지로 통일시킴
+
+도트 그래픽 디자이너
+클라이언트 프로그래머
+기획자
+사운드 디자이너			--> 모두가 도트 제작에 참여
+
+회사원의 경력 기준은
+1. 경험
+2. 실력
+
+주말동안의 실습 과제
+자신의 이름을 걸고 만들 게임을 고민
+name value
+1단계
+Game Title = 의미없는 영어보단 한글
+- 세계의 왕이 되는 이야기라서 -> 더 킹?
+- 
+
+2단계
+장르
+액션 RPG or 어드벤처 (P의 거짓, 스텔라블레이드, 엘든링)
+
+3단계
+Idea sketch
+플레이의 모습을 글로 묘사
+탑을 오름
+각층의 탑에있는 강자들과의 싸움
+기본적으로 1:1 또는 1:N
+
+
+4단계
+가상 크레딧
+필요한 직군이 무엇일지 작성
+
+5단계
+위 4단계를 기준으로

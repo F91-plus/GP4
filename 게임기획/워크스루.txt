@@ -1,0 +1,29 @@
+워크스루
+XP
+미들웨어
+DFD
+설계 기법
+\
+1장
+
+
+
+
+2장 
+
+
+3장
+
+4장
+병행제어
+
+5장
+- 크래커가 침입하여 백도어 만들어 놓거나, 설정 파일을 변경했을 때 분석하는 도구  = tripwire
+- 오픈 소스 기반인 분산 컴퓨팅 플랫폼, 가상화된 대형 스토리지 형성, 다양한 소스를 통해 생성된 빅데이터를 효율적으로 저장 처리 = 하둡
+- 네트워크상에 광채널 스위치의 이점인 고속 전송과 장거리 연결 및 멀티 프로토콜 기능 활용, 각기 다른 기종이 네트워크 상에서 동일 저장장치에 공유해 여러개의 저장 장치나 백업 장비를 단일화 시킨 시스템
+
+
+https://docs.google.com/spreadsheets/d/1QgGeyzpEYeoPjEnwaehQpcYXqsCH4KdoZz7zU31Ip0I/edit?gid=0#gid=0
+https://docs.google.com/document/d/1yLF43beR_7EgXlq-vo19FDUwbboS2F2jv8UsDv_3Dcc/edit?tab=t.0
+
+C:\Users\plusf\Documents\카카오톡 받은 파일

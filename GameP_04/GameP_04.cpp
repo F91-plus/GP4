@@ -8,6 +8,7 @@
 #include "Deque.h"
 #include "List.h"
 #include "SingleList.h"
+#include "CircularList.h"
 
 using namespace std;
 
@@ -158,7 +159,7 @@ int main()
 	*/
 
 	SingleList S_list;
-
+	/*
 	S_list.AddNode(1);
 	S_list.AddNode(2);
 
@@ -169,17 +170,25 @@ int main()
 
 	S_list.PrintAll();
 
-	/*
+	
 	S_list.InsertNode(0, 100);
 	S_list.InsertNode(5, 100);
 	S_list.PrintAll();
-	*/
+	
 	for (int i = 1; i < 10; i=i+4)
 	{
 		S_list.InsertNode(i, 200);
 	}
 	S_list.PrintAll();
+	*/
 
+	CircularList C_list;
+	C_list.AddNode(1);
+	C_list.AddNode(2);
+	C_list.AddNode(3);
+	C_list.AddNode(4);
+
+	C_list.PrintAll();
 
     return 0;
 }

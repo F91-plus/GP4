@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CircularList.cpp" />
     <ClCompile Include="Deque.cpp" />
     <ClCompile Include="GameP_04.cpp" />
     <ClCompile Include="List.cpp" />
@@ -137,6 +138,7 @@
     <ClCompile Include="Stack_Template.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CircularList.h" />
     <ClInclude Include="Deque.h" />
     <ClInclude Include="List.h" />
     <ClInclude Include="Queue.h" />
